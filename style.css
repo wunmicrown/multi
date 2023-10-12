@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main{
+    background-image: url(./SolarPanels.jfif);
+    background-size: cover;
+    height: auto;
+    width: 100%;
+    justify-content: center;
+    display: flex;
+    color: rgb(151, 5, 5);
+}
